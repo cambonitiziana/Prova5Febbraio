@@ -1,0 +1,13 @@
+C:\Users\tiziana.camboni\Desktop\Prova05Feb\GestioneTask\GestioneTask\obj\Debug\netcoreapp3.1\GestioneTask.csprojAssemblyReference.cache
+C:\Users\tiziana.camboni\Desktop\Prova05Feb\GestioneTask\GestioneTask\obj\Debug\netcoreapp3.1\GestioneTask.AssemblyInfoInputs.cache
+C:\Users\tiziana.camboni\Desktop\Prova05Feb\GestioneTask\GestioneTask\obj\Debug\netcoreapp3.1\GestioneTask.AssemblyInfo.cs
+C:\Users\tiziana.camboni\Desktop\Prova05Feb\GestioneTask\GestioneTask\obj\Debug\netcoreapp3.1\GestioneTask.csproj.CoreCompileInputs.cache
+C:\Users\tiziana.camboni\Desktop\Prova05Feb\GestioneTask\GestioneTask\bin\Debug\netcoreapp3.1\GestioneTask.exe
+C:\Users\tiziana.camboni\Desktop\Prova05Feb\GestioneTask\GestioneTask\bin\Debug\netcoreapp3.1\GestioneTask.deps.json
+C:\Users\tiziana.camboni\Desktop\Prova05Feb\GestioneTask\GestioneTask\bin\Debug\netcoreapp3.1\GestioneTask.runtimeconfig.json
+C:\Users\tiziana.camboni\Desktop\Prova05Feb\GestioneTask\GestioneTask\bin\Debug\netcoreapp3.1\GestioneTask.runtimeconfig.dev.json
+C:\Users\tiziana.camboni\Desktop\Prova05Feb\GestioneTask\GestioneTask\bin\Debug\netcoreapp3.1\GestioneTask.dll
+C:\Users\tiziana.camboni\Desktop\Prova05Feb\GestioneTask\GestioneTask\bin\Debug\netcoreapp3.1\GestioneTask.pdb
+C:\Users\tiziana.camboni\Desktop\Prova05Feb\GestioneTask\GestioneTask\obj\Debug\netcoreapp3.1\GestioneTask.dll
+C:\Users\tiziana.camboni\Desktop\Prova05Feb\GestioneTask\GestioneTask\obj\Debug\netcoreapp3.1\GestioneTask.pdb
+C:\Users\tiziana.camboni\Desktop\Prova05Feb\GestioneTask\GestioneTask\obj\Debug\netcoreapp3.1\GestioneTask.genruntimeconfig.cache
